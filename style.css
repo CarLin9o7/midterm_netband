@@ -1,0 +1,603 @@
+body{
+    background-color: #FFFFFF;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    margin: 15px 0px 0px 0px;
+    padding: 0%;
+}
+.net{
+    background-color: #D61120;
+    width: 1500px;
+    padding-left: 100px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.net > h6{
+    color: #FFFFFF;
+    position: relative;
+    display: inline-block;
+    font-size: 13px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-inline: 10px;
+}
+.net > img{
+    position: relative;
+    margin-bottom: -7px;
+}
+.fol > img{
+    position: relative;
+    display: inline-block;
+    bottom: 110px;
+    left: 1425px;
+}
+.fol > h6{
+    color: #FFFFFF;
+    position: relative;
+    font-size: 13px;
+    bottom: 65px;
+    left: 1330px;
+}
+.NB{
+    color: #D61120;
+    position: relative;
+    font-size: 32px;
+    left: 100px;
+    bottom: 100px;
+}
+.hasp > .hasps, .hom{
+    display: inline-block;
+    position: relative;
+    word-spacing: 60px;
+    left: 440px;
+    bottom: 173px;
+}
+.hasps{
+    margin-left: 60px;
+    font-weight: 300;
+}
+.csm{
+    display: inline-block;
+    position: relative;
+    word-spacing: 10px;
+    right: -1335px;
+    top: -230px;
+}
+.karrow1{
+    position: relative;
+    left: 490px;
+    top: -270px;
+    word-spacing: 75px;
+}
+.karrow2{
+    position: relative;
+    left: 730px;
+    top: -306px;
+    word-spacing: 70px;
+}
+.karrow3{
+    position: relative;
+    left: 940px;
+    top: -342px;
+    word-spacing: 62px;
+}
+.karrow4{
+    position: relative;
+    left: 1160px;
+    top: -378px;
+    word-spacing: 100px;
+}
+.bgd1{
+    position: relative;
+    bottom: 355px;
+}
+.jwfi{
+    position: relative;
+    color: #FFFFFF;
+    top: -1155px;
+    left: 120px;
+    font-size: 50px;
+    word-spacing: 15px;
+}
+.ujwfi{
+    position: relative;
+    color: #FFFFFF;
+    bottom: 1212px;
+    left: 120px;
+    font-size: 40px;
+    word-spacing: 4px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+.pemon{
+    position: relative;
+    left: 115px; 
+    bottom: 1240px;
+}
+.pesos1{
+    color: #D61120;
+    font-size: 70px;
+    letter-spacing: 5px;
+    -webkit-text-stroke: 2px #D61120;
+}
+.mon{
+    color: #FFFFFF;
+    position: relative;
+    right: -235px;
+    bottom: 107px;
+}
+.gst{
+    color: #FFFFFF;
+    background-color: #D61120;
+    display: inline-block;
+    position: relative;
+    bottom: 70px;
+    font-size: 25px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+.oca{
+    position: relative;
+    bottom: 1200px;
+    right: -730px;
+}
+.oca1{
+    color: #D61120;
+    font-weight: 1000;
+    font-size: 20px;
+}
+.esm{
+    position: relative;
+    font-size: 32px;
+    right: 70px;
+    bottom: 20px;
+}
+.sam{
+    position: relative;
+    font-size: 32px;
+    right: 20px;
+    top: -70px;
+}
+.bwfst{
+    position: relative;
+    bottom: 1300px;
+    left: 100px;
+    letter-spacing: 10px;
+}
+.brd{
+    background-color: white;
+    position: relative;
+    padding-left: 25px;
+    padding-right: 230px;
+    padding-top: 40px;
+    padding-bottom: 250px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px 1px rgb(66, 66, 66);
+}
+.wf{
+    background-color: #D61120;
+    position: relative;
+    padding-left: 25px;
+    padding-right: 230px;
+    padding-top: 40px;
+    padding-bottom: 275px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px 1px rgb(66, 66, 66);
+}
+.sat{
+    background-color: white;
+    position: relative;
+    padding-left: 25px;
+    padding-right: 230px;
+    padding-top: 38px;
+    padding-bottom: 255px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px 1px rgb(66, 66, 66);
+}
+.tvb{
+    background-color: white;
+    position: relative;
+    padding-left: 25px;
+    padding-right: 230px;
+    padding-top: 40px;
+    padding-bottom: 255px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px 1px rgb(66, 66, 66);
+}
+.brd1{
+    position: relative;
+    top: -1520px;
+    right: -130px;
+    width: 270px;
+}
+.brd1 > p{
+    font-size: 20px;
+    font-weight: 400;
+}
+.wf1{
+    color: #FFFFFF;
+    position: relative;
+    top: -1640px;
+    right: -505px;
+    width: 270px;
+}
+.wf1 > p{
+    font-size: 20px;
+    font-weight: 400;
+}
+.sat1{
+    position: relative;
+    top: -1755px;
+    right: -875px;
+    width: 270px;
+}
+.sat1 > p{
+    font-size: 20px;
+    font-weight: 400;
+}
+.tvb1{
+    position: relative;
+    top: -1870px;
+    right: -1230px;
+    width: 270px;
+}
+.tvb1 > p{
+    font-size: 20px;
+    font-weight: 400;
+}
+.aoi{
+    position: relative;
+    right: -830px;
+    top: -1670px;
+}
+.aoi > img{
+    margin-top: -10px;
+    margin-right: 280px;
+}
+.wpu{
+    position: relative;
+    top: -25px;
+    font-weight: 700;
+    font-size: 40px;
+    width: 619px;
+}
+.wvc{
+    position: relative;
+    top: -50px;
+    width: 600px;
+    font-size: 20px;
+    font-weight: 400;
+    opacity: 73%;
+}
+.uhq > p{
+    font-size: 20px;
+    font-weight: 400;
+    width: 320px;
+    opacity: 73%;
+}
+.fls > p{
+    font-size: 20px;
+    font-weight: 400;
+    width: 300px;
+    opacity: 73%;
+}
+.aoi1{
+    color: #D61120;
+    font-weight: 1000;
+    font-size: 20px;
+}
+.fls{
+    position: relative;
+    left: 360px;
+    top: -135px;
+}
+.checks{
+    position: relative;
+    top: -100px;
+}
+.checks > img{
+    position: relative;
+}
+.checks > p{
+    font-size: 20px;
+    font-weight: 400;
+    position: relative;
+    left: 30px;
+    top: -35px;
+    margin-bottom: -10px;
+    line-height: 0px;
+}
+.people{
+    position: relative;
+    padding-left: 30px;
+    top: -70px;
+}
+.people > img{
+    margin-left: -30px;
+}
+.people > p{
+    display: inline-block;
+    position: relative;
+    top: -30px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.p1{
+    z-index: 4;
+    position: relative;
+}
+.p2{
+    z-index: 3;
+    top: -5px;
+    position: relative;
+}
+.p3{
+    z-index: 2;
+    top: 10px;
+    position: relative;
+}
+.p4{
+    z-index: 1;
+    position: relative;
+}
+.redl{
+    position: relative;
+    display: inline-block;
+    background-color: #FFFFFF;
+    color: #FFFFFF;
+    left: 100px;
+    bottom: 2470px;
+    padding: 350px 250px 230px 300px;
+    box-shadow: 1px 1px 5px 1px #D61120;
+}
+.ftv{
+    position: relative;
+    top: -3210px;
+    margin-left: 100px;
+}
+.tv1{
+    left: -150px;
+    top: 100px;
+    position: relative;
+}
+.yetp{
+    background-color: #D61120;
+    color: #FFFFFF;
+    position: relative;
+    display: inline-block;
+    left: 20px;
+    padding-top: 50px;
+    padding-left: 10px;
+    padding-right: 20PX;
+    border-radius: 10px;
+    top: -3868px;
+}
+.yetp > h1{
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 0;
+}
+.starstp{
+    position: relative;
+    display: inline-block;
+    top: -30px;
+}
+.starstp > p{
+    font-size: 15px;
+    font-weight: 200;
+    display: inline-block;
+}
+.yoe{
+    font-size: 20px;
+    font-weight: 400;
+}
+.infos{
+    position: relative;
+    display: inline-block;
+    background-color: #FFFFFF;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: #D61120;
+    line-height: 0;
+    border-radius: 10px;
+    font-size: 24px;
+    font-weight: 700;
+    top: -190px;
+    left: 10px;
+
+}
+.infos > img{
+    position: relative;
+    margin-top: -10%;
+    padding: 0%;
+    right: -40px;
+    top: 15px;
+}
+.bgc{
+    position: relative;
+    background-color: #E9E9F1;
+    color: #E9E9F1;
+    width: 1600px;
+    height: 950px;
+    bottom: 3330px;
+}
+.cap{
+    left: 70px;
+    position: relative;
+    bottom: 4060px;
+}
+.cap > p{
+    position: relative;
+    display: inline-block;
+    font-weight: bold;
+    left: -710px;
+    top: 75px;
+    margin-right: 30px;
+}
+.cap1{
+    color: #D61120;
+    font-weight: 1000;
+    font-size: 20px;
+}
+.cuf{
+    font-weight: 700;
+    font-size: 40px;
+    width: 700px;
+}
+.mbps1{
+    color: #FFFFFF;
+    background-color: #D61120;
+    display: inline-block;
+    position: relative;
+    font-size: 18px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+.mbps2, .mbps3{
+    background-color: #FFFFFF;
+    display: inline-block;
+    position: relative;
+    font-size: 18px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+.pss8{
+    position: relative;
+    display: inline-block;
+    background-color: #FFFFFF;
+    left: 65px;
+    bottom: 3950px;
+    line-height: 0px;
+    padding: 10px 20px 10px 20px;
+    box-shadow: 1px 1px 0px 2px #D61120;
+    border-radius: 5px;
+}
+.pss8 > p, h1{
+    position: relative;
+    display: inline-block;
+}
+.pss8 > p{
+    font-size: 20px;
+    font-weight: 400;
+    opacity: 65%;
+}
+.pss8 > h1{
+    font-size: 75px;
+    color: #D61120;
+}
+.pss3{
+    position: relative;
+    bottom: 4102px;
+    left: 375px;
+}
+.pss3 > p, h1{
+    position: relative;
+    display: inline-block;
+    
+}
+.pss3 > h1{
+    font-size: 75px;
+}
+.pss8 > p{
+    font-size: 20px;
+    font-weight: 400;
+    opacity: 65%;
+}
+.pss3 > p{
+    font-size: 20px;
+    font-weight: 400;
+    opacity: 65%;
+}
+.checks1{
+    position: relative;
+    top: -4110px;
+    left: 70px;
+}
+.checks1 > img{
+    position: relative;
+    bottom: -45px;
+}
+.checks1 > p{
+    font-size: 29px;
+    font-weight: 200;
+    position: relative;
+    left: 30px;
+    margin-bottom: -20px;
+    line-height: 0px;
+}
+.kokoy{
+    position: relative;
+    left: 70px;
+    bottom: 4060px;
+    font-size: 38px;
+    font-weight: 400;
+}
+.woman{
+    position: relative;
+    left: 550px;
+    top: -4850px;
+}
+.net1{
+    background-color: #D61120;
+    width: 1500px;
+    padding-left: 100px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.net1 > h6{
+    color: #FFFFFF;
+    position: relative;
+    display: inline-block;
+    font-size: 13px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-inline: 10px;
+}
+.net1 > img{
+    position: relative;
+    margin-bottom: -7px;
+}
+.foll > img{
+    position: relative;
+    display: inline-block;
+    bottom: 115px;
+    left: 1425px;
+}
+.foll > h6{
+    color: #FFFFFF;
+    position: relative;
+    font-size: 13px;
+    bottom: 65px;
+    left: 1330px;
+}
+.jwfii{
+    position: relative;
+    top: -100px;
+}
+.ocaa{
+    position: relative;
+    top: -30px;
+}
+
+.capp{
+    position: relative;
+    top: -180px;
+}
+
+.nett{
+    position: relative;
+    bottom: 5040px;
+}

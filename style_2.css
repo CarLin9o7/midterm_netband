@@ -1,0 +1,466 @@
+body{
+    background-color: #FFFFFF;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    margin: 15px 0px 0px 0px;
+    padding: 0%;
+}
+.net{
+    background-color: #D61120;
+    width: 1500px;
+    padding-left: 100px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.net > h6{
+    color: #FFFFFF;
+    position: relative;
+    display: inline-block;
+    font-size: 13px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-inline: 10px;
+}
+.net > img{
+    position: relative;
+    margin-bottom: -7px;
+}
+.fol > img{
+    position: relative;
+    display: inline-block;
+    bottom: 110px;
+    left: 1425px;
+}
+.fol > h6{
+    color: #FFFFFF;
+    position: relative;
+    font-size: 13px;
+    bottom: 65px;
+    left: 1330px;
+}
+.NB{
+    color: #D61120;
+    position: relative;
+    font-size: 32px;
+    left: 100px;
+    bottom: 100px;
+}
+.hasp > .hasps{
+    display: inline-block;
+    position: relative;
+    word-spacing: 60px;
+    left: 390px;
+    bottom: 173px;
+}
+.hasps{
+    margin-left: 60px;
+    font-weight: 300;
+}
+.serv{
+    font-weight: 700;
+}
+.csm{
+    display: inline-block;
+    position: relative;
+    word-spacing: 10px;
+    right: -1335px;
+    top: -230px;
+}
+.karrow1{
+    position: relative;
+    left: 490px;
+    top: -266px;
+    word-spacing: 75px;
+}
+.karrow2{
+    position: relative;
+    left: 730px;
+    top: -302px;
+    word-spacing: 75px;
+}
+.karrow3{
+    position: relative;
+    left: 942px;
+    top: -338px;
+    word-spacing: 64px;
+}
+.karrow4{
+    position: relative;
+    left: 1162px;
+    top: -374px;
+    word-spacing: 100px;
+}
+.bgf{
+    position: relative;
+    top: -350px;
+}
+.bgf > h1{
+    position: relative;
+    top: -750px;
+    left: 320px;
+    text-align: center;
+    width: 980px;
+    color: #FFFFFF;
+    font-size: 115px;
+}
+.io{
+    position: relative;
+    top: -930px;
+    background-color: #24232B;
+    padding: 10px 126.5px 0px 0px;
+    display: inline-block;
+}
+.io > h6{
+    color: #D61120;
+    font-size: 20px;
+    margin-left: 720px;
+}
+.io > h3{
+    position: relative;
+    font-size: 32px;
+    line-height: 0.3;
+    color: #FFFFFF;
+    left: 427px;
+}
+.ioi{
+    letter-spacing: 15px;
+    margin-left: 140px;
+}
+.tsms{
+    position: relative;
+    margin-left: 153px;
+}
+.bou{
+    position: relative;
+    margin-left: 400px;
+    top: 150px;
+    left: 260px;
+    line-height: 0;
+    padding: 0px 60px 0px 60px;
+    border-radius: 5%;
+    display: inline-block;
+    background-color: #D61120;
+}
+.bou1{
+    color: #FFFFFF;
+    font-size: 28px;
+}
+.msg{
+    position: relative;
+    top: -115px;
+    left: 150px;
+    word-spacing: 270px;
+}
+.pdes{
+    position: relative;
+    color: #FFFFFF;
+    font-size: 19px;
+    font-style: lighter;
+    left: 150px;
+    top: -120px;
+}
+.choi{
+    position: relative;
+    width: 300px;
+    text-align: center;
+}
+.datu{
+    position: relative;
+    left: 340px;
+    top: -67px;
+    width: 280px;
+    text-align: center;
+}
+.king{
+    position: relative;
+    left: 690px;
+    top: -133px;
+    width: 300px;
+}
+.pres{
+    position: relative;
+    left: 1005px;
+    top: -175px;
+    width: 280px;
+    text-align: center;
+}
+.bgc1{
+    position: relative;
+    background-color: #FFFFFF;
+    color: #FFFFFF;
+    padding: 20px;
+    top: -1000px;
+}
+.ocpss{
+    position: relative;
+    left: 560px;
+    top: -1070px;
+}
+.ocp{
+    color: #D61120;
+    position: relative;
+    left: 120px;
+    font-size: 20px;
+    font-weight: 900px;
+    line-height: 0;
+}
+.oss{
+    position: relative;
+    top: -20px;
+    font-size: 32px;
+    width: 500px;
+    text-align: center;
+    font-weight: 700px;
+}
+.hsal{
+    position: relative;
+    left: 50px;
+    bottom: 1555px;
+    word-spacing: 257px;
+}
+.hsal > p{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 800;
+    
+}
+.ht{
+    position: relative;
+    left: 100px;
+    background-color: #D61120;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 10%;
+}
+.sal{
+    position: relative;
+    left: 102px;
+    top: -2px;
+    background-color: #D61120;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 10%;
+}
+.sal1{
+    position: relative;
+    left: 105px;
+    top: -5px;
+    background-color: #D61120;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 10%;
+}
+.sal2{
+    position: relative;
+    left: 90px;
+    top: -5px;
+    background-color: #D61120;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 10%;
+}
+.devsal{
+    position: relative;
+    top: -1100px;
+    left: 130px;
+    word-spacing: 10px;
+}
+.nbr{
+    background-color: white;
+    display: inline-block;
+    position: relative;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 105px;
+    padding-bottom: 100px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px 1px rgb(66, 66, 66);
+}
+.lanc{
+    background-color: white;
+    display: inline-block;
+    position: relative;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 139px;
+    padding-bottom: 80px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px 1px rgb(66, 66, 66);
+}
+.nbs{
+    background-color: white;
+    display: inline-block;
+    position: relative;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 73px;
+    padding-bottom: 70px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px 1px rgb(66, 66, 66);
+}
+.nbsr{
+    background-color: white;
+    display: inline-block;
+    position: relative;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 120px;
+    padding-bottom: 100px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px 1px rgb(66, 66, 66);
+}
+.devname > h3{
+    position: relative;
+    display: inline-block;
+    left: 150px;
+    bottom: 1200px;
+}
+.catn{
+    position: relative;
+    margin-left: 180px;
+}
+.nbsn{
+    position: relative;
+    margin-left: 180px;
+}
+.nbsrn{
+    position: relative;
+    margin-left: 170px;
+}
+.money > p{
+    position: relative;
+    display: inline-block;
+    bottom: 1308px;
+    left: 150px;
+    font-size: 20px;
+}
+.p45, .p8, .p25, .p50{
+    font-weight: 300;
+}
+.p10 , .p3, .p85{
+    opacity: 62%;
+}
+.p8{
+    
+    margin-left: 260px;
+}
+.p25{
+    margin-left: 83px;
+}
+.p50{
+    margin-left: 140px;
+}
+.ocpsss{
+    z-index: 2;
+}
+.fami{
+    z-index: -1;
+    background-color: #E9E9F1;
+    padding: 325px 830px 0px 0px;
+    display: inline-block;
+    position: relative;
+    bottom: 1510px;
+}
+
+.aoi{
+    position: relative;
+    right: -830px;
+    top: -2235px;
+}
+.aoi > img{
+    margin-right: 280px;
+}
+.fsc{
+    position: relative;
+    top: -25px;
+    font-weight: 700;
+    font-size: 40px;
+    width: 650px;
+}
+.wvc{
+    position: relative;
+    top: -40px;
+    width: 600px;
+    font-size: 20px;
+    font-weight: 400;
+    opacity: 73%;
+}
+.uhq > p{
+    font-size: 20px;
+    font-weight: 400;
+    width: 320px;
+    opacity: 73%;
+}
+.fls > p{
+    font-size: 20px;
+    font-weight: 400;
+    width: 300px;
+    opacity: 73%;
+}
+.aoi1{
+    color: #D61120;
+    font-weight: 1000;
+    font-size: 20px;
+}
+.fls{
+    position: relative;
+    left: 360px;
+    top: -135px;
+}
+
+.boou{
+    position: relative;
+    top: 50px;
+    right: 360px;
+    line-height: 0;
+    padding: 0px 60px 0px 60px;
+    border-radius: 5%;
+    display: inline-block;
+    background-color: #D61120;
+}
+.boou1{
+    color: #FFFFFF;
+    font-size: 28px;
+}
+
+.net1{
+    background-color: #D61120;
+    width: 1500px;
+    padding-left: 100px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.net1 > h6{
+    color: #FFFFFF;
+    position: relative;
+    display: inline-block;
+    font-size: 13px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-inline: 10px;
+}
+.net1 > img{
+    position: relative;
+    margin-bottom: -7px;
+}
+.foll > img{
+    position: relative;
+    display: inline-block;
+    bottom: 115px;
+    left: 1425px;
+}
+.foll > h6{
+    color: #FFFFFF;
+    position: relative;
+    font-size: 13px;
+    bottom: 65px;
+    left: 1330px;
+}
+
+.nett{
+    position: relative;
+    bottom: 0px;
+    right: 830px;
+}
